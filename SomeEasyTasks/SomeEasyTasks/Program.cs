@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SomeEasyTasks;
+using System;
+using System.Linq;
+
+namespace SomeEasyTasks
+{
+    class Program
+    {
+        static void Main()
+        {
+            RigthAndLeft.Run();
+        }
+    }
+
+
+
+    
+}
