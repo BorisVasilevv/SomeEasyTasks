@@ -8,11 +8,9 @@ namespace SomeEasyTasks
     {
         static void Main()
         {
-            RigthAndLeft.Run();
+            RigthAndLeft.Main();
+            MeetWithWeigth.Main();
         }
     }
-
-
-
     
 }

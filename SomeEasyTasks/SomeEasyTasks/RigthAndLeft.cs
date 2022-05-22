@@ -9,7 +9,7 @@ namespace SomeEasyTasks
 
     public static class RigthAndLeft
     {
-        public static void Run()
+        public static void Main()
         {
 
             string instruction = Console.ReadLine();
